@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "trading-skills-essentials",
+  "version": "1.0.0",
+  "description": "28 curated US-equity trading & stock-evaluation skills (subset of tradermonty/claude-trading-skills).",
+  "owner": {
+    "name": "Dr. Etai Yaffe"
+  },
+  "plugins": [
+    {
+      "name": "trading-essentials",
+      "description": "US-equity trading & stock evaluation: screeners (CANSLIM, VCP, PEAD, dividends), technical analysis, market-breadth & macro-regime, earnings/news, risk & position sizing, backtest, options, and trade coaching.",
+      "source": "./trading-essentials",
+      "category": "finance"
+    }
+  ]
+}
