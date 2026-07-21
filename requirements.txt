@@ -1,0 +1,10 @@
+# Python packages the curated trading skills import at runtime
+requests
+pyyaml
+numpy
+pandas
+scipy
+yfinance
+beautifulsoup4
+opencv-python
+Pillow
