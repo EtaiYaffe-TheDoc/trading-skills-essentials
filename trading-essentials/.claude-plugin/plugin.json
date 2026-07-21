@@ -1,0 +1,24 @@
+{
+  "name": "trading-essentials",
+  "version": "1.0.0",
+  "description": "28 curated US-equity trading & stock-evaluation skills. Research/analysis only — not investment advice.",
+  "author": {
+    "name": "tradermonty (curated subset)",
+    "url": "https://github.com/tradermonty/claude-trading-skills"
+  },
+  "keywords": [
+    "trading",
+    "stocks",
+    "equity",
+    "technical-analysis",
+    "screener",
+    "canslim",
+    "vcp",
+    "portfolio",
+    "risk",
+    "backtest",
+    "options"
+  ],
+  "homepage": "https://github.com/tradermonty/claude-trading-skills",
+  "license": "MIT"
+}
